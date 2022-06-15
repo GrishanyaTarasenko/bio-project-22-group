@@ -7,6 +7,7 @@
 | Фурсов Егор | Aeromonas | https://github.com/basedinside/hse22_project |
 | Бушнев Дмитрий | Serratia | https://github.com/dRabbit-ab/hse22_project |
 | Динеев Владислав | Acinetobacter | https://github.com/dineev-vd/hse22_project |
+| Тарасенко Григорий | Shewanella | https://github.com/GrishanyaTarasenko/hse22_project |
 | Светцов Фёдор | Legionella | https://github.com/screenwriting/hse22_project |
 | Кличко Никита | Xanthomonas | https://github.com/NikitaKlichko/hse22_project |
 | Горбонос Александра  | Vibrio | https://github.com/IlonaGA/hse22_project |
